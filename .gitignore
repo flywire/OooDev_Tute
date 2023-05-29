@@ -1,5 +1,6 @@
 .*
 !/.gitignore
 !/.github
+!/.readthedocs.yaml
 _*/
 *.bak
